@@ -1,0 +1,7 @@
+ResNet V1 Performance Metrics
+
+Validation loss minimized after 6 epochs.
+
+Validation Loss: 0.234
+Validation AUC: 0.851
+Validation Accuracy: 0.949
