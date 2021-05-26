@@ -115,7 +115,7 @@ total_train = len(os.listdir(os.path.join(abs_processed, 'train', 'bleed'))) + l
 total_validate = len(os.listdir(os.path.join(abs_processed, 'test', 'bleed'))) + len(os.listdir(os.path.join(abs_processed, 'test', 'normal')))
 
 batch_size= 2**7
-epochs = 2
+epochs = 2**5
 l2_reg = 1e-4
 
 # define generators
