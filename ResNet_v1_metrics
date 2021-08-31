@@ -1,7 +1,7 @@
-ResNet V1 Performance Metrics
+Reya One Performance Metrics
 
 Validation loss minimized after 6 epochs.
 
-Validation Loss: 0.234
-Validation AUC: 0.851
-Validation Accuracy: 0.949
+Validation Loss: 0.1946
+Validation AUC: 0.978
+Validation Accuracy: 0.968
